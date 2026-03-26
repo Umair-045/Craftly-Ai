@@ -5,8 +5,7 @@
     "@exodus/bytes": "^1.0.0",
     "@rollup/plugin-terser": "^0.3.0",
     "@jridgewell/sourcemap-codec": "^1.5.0",
-    "lucide-react": "^0.288.0",
-    // Keep other valid dependencies like api calls, etc.
+    "lucide-react": "^0.288.0"
   },
   "devDependencies": {
     "rimraf": "^4.0.0"
